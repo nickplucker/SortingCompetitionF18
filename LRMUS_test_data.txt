@@ -1,0 +1,15 @@
+Longest Repeated Substring in GEEKSFORGEEKS is: GEEKS
+    LRMUS: GEEKSF
+Longest Repeated Substring in ABCDEFG is: No repeated substring
+    LRMUS: A
+Longest Repeated Substring in ABABABA is: ABABA
+    LRMUS: ABABAB
+Longest Repeated Substring in ATCGATCGA is: ATCGA
+    LRMUS: ATCGAT
+Longest Repeated Substring in banana is: ana
+    LRMUS: anan
+Longest Repeated Substring in abcpqrabpqpq is: ab (pq is another LRS here)
+    LRMUS: abc
+Longest Repeated Substring in pqrpqpqabab is: pq (pq is another LRS here) (finds ab)
+    LRMUS: pqr
+
